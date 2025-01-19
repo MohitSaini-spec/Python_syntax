@@ -1,2 +1,2 @@
 # Python_syntax
-Syntax
+Syntax of statements in Python
